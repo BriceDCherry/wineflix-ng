@@ -1,3 +1,5 @@
+Deployed site: https://snazzy-cucurucho-4dfed2.netlify.app/
+
 # WineFlix
 
 ![Wineflix demo](./wineflix.jpg)
