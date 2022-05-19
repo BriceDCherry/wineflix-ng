@@ -7,7 +7,5 @@ import { heroContent } from 'src/goliath';
   styleUrls: ['./hero.component.css']
 })
 export class HeroComponent {
-
   heroContent = heroContent
-
 }

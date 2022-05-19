@@ -6,12 +6,9 @@ import { Component, Input } from '@angular/core';
   styleUrls: ['./drunk.component.css']
 })
 export class DrunkComponent {
-
-  
   @Input() imageURL!: string;
   @Input() isNew?: boolean;
   @Input() label!: string;
   @Input() isFinished?: boolean;
   @Input() progress?: number;
-
 }

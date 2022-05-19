@@ -7,7 +7,5 @@ import { wines } from 'src/wine';
   styleUrls: ['./wine-list.component.css']
 })
 export class WineListComponent {
-
   wines = wines 
-
 }

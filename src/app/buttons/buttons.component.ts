@@ -7,7 +7,6 @@ import { faPlay, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
   styleUrls: ['./buttons.component.css']
 })
 export class ButtonsComponent {
-
   faPlay = faPlay
   faInfoCircle = faInfoCircle
 }
