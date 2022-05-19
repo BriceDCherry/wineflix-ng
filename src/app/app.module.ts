@@ -9,6 +9,7 @@ import { LogoComponent } from './logo/logo.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { AvatarComponent } from './avatar/avatar.component';
 import { HeroComponent } from './hero/hero.component';
+import { ButtonsComponent } from './buttons/buttons.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { HeroComponent } from './hero/hero.component';
     LogoComponent,
     NavBarComponent,
     AvatarComponent,
-    HeroComponent
+    HeroComponent,
+    ButtonsComponent
   ],
   imports: [
     BrowserModule,
