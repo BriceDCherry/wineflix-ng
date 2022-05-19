@@ -7,7 +7,6 @@ import {Component} from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  faPlay = faPlay
-  faInfoCircle = faInfoCircle
+  
   title = 'angular-template';
 }

@@ -1,5 +1,4 @@
-export 
-const wines = [{
+export const wines = [{
     id: 1,
     imageUrl: '/assets/red-wine.jpg',
     isNew: true,

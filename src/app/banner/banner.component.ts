@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { faPlay, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
+
 
 @Component({
   selector: 'app-banner',
@@ -8,7 +8,6 @@ import { faPlay, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
 })
 export class BannerComponent {
 
-  faPlay = faPlay
-  faInfoCircle = faInfoCircle
+  
 
 }
